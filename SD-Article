@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{ "@context": "https://schema.org", 
+ "@type": "Article",
+ "headline": "<ARTICLE NAME>",
+ "image": "<FEATURED IMAGE>",
+ "author": "<AUTOR NAME>", 
+  "datePublished": "DATUM PUBLIKOVÁNÍ ČLÁNKU>",
+  "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE ČLÁNKU>",
+  "mainEntityOfPage	": "<URL ČLÁNKU>",
+"publisher": {
+    "@type": "Organization",
+    "name": "btctip",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://btctip.cz/wp-content/uploads/2021/04/btctip-logo.png"
+    }
+  }
+ }
+</script>
