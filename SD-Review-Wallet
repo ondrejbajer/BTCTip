@@ -1,4 +1,4 @@
-<script type="application/ld+json">
+a<script type="application/ld+json">
                   {
                     "@context": "https://schema.org/",
                     "@type": "Review",
@@ -6,15 +6,12 @@
                     "datePublished": "<DATUM VYTVOŘENÍ RECENZE>",
                     "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE>",
                     "sameAs": "<URL WEBU>",
-                    "commentCount": "<Počet komentářů u review>"
-                    },
+                    "commentCount": "<Počet komentářů u review>",
                   "itemReviewed": {
-                    "@type": "Product",
+                    "@type": "Organization",
                     "name": "<Název> (<Typ>)",
-                    "image": "<Logo>",
-                    "description": "<SHRNUTÍ>",
-                    "price": "<cena>",
-                    "priceCurrency": "<měna>"
+                    "logo": "<Logo>",
+                    "description": "<SHRNUTÍ>"
                   },
                   "author": {
                     "@type": "Person",
