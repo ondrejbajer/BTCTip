@@ -8,10 +8,10 @@
                     "sameAs": "<URL WEBU>",
                     "commentCount": "<Počet komentářů u review>",
                     },
-                  "itemReviewed": {a
+                  "itemReviewed": {
                     "@type": "Product",
-                    "name": "<Název> (<Typ>)"
-                    "image": "<Logo>"
+                    "name": "<Název> (<Typ>)",
+                    "image": "<Logo>",
                     "description": "<SHRNUTÍ>",
                     "price": "<cena>",
                     "priceCurrency": "<měna>"
