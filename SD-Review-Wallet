@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+                  {
+                    "@context": "https://schema.org/",
+                    "@type": "Review",
+                    "reviewBody": "<SHRNUTÍ>",
+                    "datePublished": "<DATUM VYTVOŘENÍ RECENZE>",
+                    "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE>",
+                    "sameAs": "<URL WEBU>",
+                    "commentCount": "<Počet komentářů u review>",
+                    },
+                  "itemReviewed": {a
+                    "@type": "Product",
+                    "name": "<Název> (<Typ>)"
+                    "image": "<Logo>"
+                    "description": "<SHRNUTÍ>",
+                    "price": "<cena>",
+                    "priceCurrency": "<měna>"
+                  },
+                  "author": {
+                    "@type": "Person",
+                    "name": "btctip"
+                  },
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "<RATING>",
+                    "bestRating": "<TO SAMÉ ČÍSLO>"
+                  },
+                  "publisher": {
+                    "@type": "Organization",
+                    "name": "btctip"
+                  }
+                }
+                </script>
