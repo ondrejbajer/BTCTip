@@ -3,8 +3,8 @@
                     "@context": "https://schema.org/",
                     "@type": "Review",
                     "reviewBody": "<SHRNUTÍ>",
-                    "datePublished": "<DATUM VYTVOŘENÍ RECENZE CASINA>",
-                    "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE CASINA>",
+                    "datePublished": "<DATUM VYTVOŘENÍ RECENZE>",
+                    "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE>",
                     "sameAs": "<URL WEBU>",
                     "commentCount": "<Počet komentářů u review>",
                   "itemReviewed": {
