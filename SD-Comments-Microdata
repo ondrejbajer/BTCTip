@@ -1,0 +1,52 @@
+Nemám, přesný příklad, nevím jak to bude vypdat, ale posílám příklad z finexu. https://finex.cz/co-jsou-dividendy-akcii/
+
+Určo to tam nějak naladíte :) https://search.google.com/structured-data/testing-tool/u/0/#url=https%3A%2F%2Ffinex.cz%2Fco-jsou-dividendy-akcii%2F
+
+Jen kluci z finexu tam maj špatně to @id to má být s kotvou "#" 
+Bude to tedy všude, kde jsou komenty. Na všech pagees, prostě to dejte napevno doo komentářové sekce nehledě na typ stránky.  
+
+-------
+
+<div class="comment even thread-even depth-1 finex-comment parent" id="comment-42059" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+        <div class="finex-comment-header">
+          <div class="finex-imgwrap-avatar"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAQAAABeK7cBAAAADUlEQVR42mO895+BAQAGfwHf3cwTSAAAAABJRU5ErkJggg==" data-src="https://secure.gravatar.com/avatar/2b1a66eb9babc5b6e42708af40969b55?s=100&d=mm&r=g" alt="Viktor" class="finex-avatar avatar finex-javascript lazyload" src="about:blank" /><noscript><img src="https://secure.gravatar.com/avatar/2b1a66eb9babc5b6e42708af40969b55?s=100&d=mm&r=g" alt="Viktor" class="finex-avatar avatar"></noscript></div>            <div class="finex-comment-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+              <span itemprop="name">Viktor</span>
+            </div>
+          
+          <time class="finex-comment-published" datetime="2019-08-18T17:38:56+02:00" itemprop="datePublished">18. 8. 2019, 15:38</time>
+        </div>
+        <div class="finex-comment-content post-content">
+          <div itemprop="text"><p>Jsou dividendy tak skvělé, nebo to jen tak tak pokryje náklady na nákup akcií? Aby to mělo nějaký smysl vůbec, víte.. dekjii za odpověd</p>
+</div>
+          <div class="finex-comment-content-footer">
+            <a rel='nofollow' class='comment-reply-link' href='#comment-42059' data-commentid="42059" data-postid="7117" data-belowelement="comment-42059" data-respondelement="respond" data-replyto="Odpovědět: Viktor" aria-label='Odpovědět: Viktor'>Reagovat</a>                      </div>
+        </div>
+      
+      <div class="finex-comment-child-comments finex-comments-list">
+      
+      
+      <div class="comment byuser comment-author-finexcz odd alt depth-2 finex-comment" id="comment-42074" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+        <div class="finex-comment-header">
+                        <a href="/profil/1326">
+                <div class="finex-imgwrap-avatar"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAQAAABeK7cBAAAADUlEQVR42mO895+BAQAGfwHf3cwTSAAAAABJRU5ErkJggg==" data-src="https://cdn.finex.cz/wp-content/uploads/wp-user-manager-uploads/2021/02/avatar-user-magazin-finex-1326-601ab418389a0.jpg" alt="Magazín Finex" class="finex-avatar avatar finex-javascript lazyload" src="about:blank" /><noscript><img src="https://cdn.finex.cz/wp-content/uploads/wp-user-manager-uploads/2021/02/avatar-user-magazin-finex-1326-601ab418389a0.jpg" alt="Magazín Finex" class="finex-avatar avatar"></noscript></div>
+              </a>
+              <div class="finex-comment-author" itemprop="author" itemscope itemtype="http://schema.org/Organization">
+                <a href="/profil/1326">
+                  <span itemprop="name">Magazín Finex</span>
+                </a>
+              </div>
+            
+          <time class="finex-comment-published" datetime="2019-08-19T11:24:00+02:00" itemprop="datePublished">19. 8. 2019, 09:24</time>
+        </div>
+        <div class="finex-comment-content post-content">
+          <div itemprop="text"><p>Viktore, například v případě držení akcií přes časový test (3 roky) jsou dividendy určitě dobré. Tak třeba držení jedné <a href="https://finex.cz/akcie/komercni-banka/">akcie Komerční banky</a> v roce 2019 vyplatilo dividendu v hodnotě 51 Kč, což bylo cca 5 % z ceny této akcie. To více než pokryje náklady na její nákup. :-)</p>
+</div>
+          <div class="finex-comment-content-footer">
+            <a rel='nofollow' class='comment-reply-link' href='#comment-42074' data-commentid="42074" data-postid="7117" data-belowelement="comment-42074" data-respondelement="respond" data-replyto="Odpovědět: Magazín Finex" aria-label='Odpovědět: Magazín Finex'>Reagovat</a>                      </div>
+        </div>
+      
+      </div>
+    
+      </div>
+    
+      </div>
