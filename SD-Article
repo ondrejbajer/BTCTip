@@ -6,7 +6,8 @@
  "author": "<AUTOR NAME>", 
   "datePublished": "DATUM PUBLIKOVÁNÍ ČLÁNKU>",
   "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE ČLÁNKU>",
-  "mainEntityOfPage	": "<URL ČLÁNKU>",
+  "mainEntityOfPage": "<URL ČLÁNKU>",
+  "commentCount": "<POČET KOMENTÁŘŮ U ČLÁNKU>",
 "publisher": {
     "@type": "Organization",
     "name": "btctip",
