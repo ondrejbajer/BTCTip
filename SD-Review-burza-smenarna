@@ -6,7 +6,7 @@
                     "datePublished": "<DATUM VYTVOŘENÍ RECENZE CASINA>",
                     "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE CASINA>",
                     "sameAs": "<URL WEBU>",
-                    "commentCount": "<URL WEBU>",
+                    "commentCount": "<Počet komentářů u review>",
                   "itemReviewed": {
                     "@type": "Organization",
                     "logo":"<URL FEATURED IMAGE>", 
