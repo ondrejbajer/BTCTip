@@ -8,11 +8,6 @@
                     "sameAs": "<URL WEBU>",
                     "alternateName": "<TICKER>",
                     "commentCount": "<Počet komentářů u review>",
-                  "itemReviewed": {
-                    "@type": "Organization",
-                    "logo":"<URL FEATURED IMAGE>", 
-                    "name": "<TITLE RECENZE>",
-                    "description": "<SHRNUTÍ>"
                     },
                   "itemReviewed": {
                     "@type": "Organization",
@@ -26,7 +21,7 @@
                   },
                   "reviewRating": {
                     "@type": "Rating",
-                    "ratingValue": "<OVERALL RATING>",
+                    "ratingValue": "<RATING>",
                     "bestRating": "<TO SAMÉ ČÍSLO>"
                   },
                   "publisher": {
