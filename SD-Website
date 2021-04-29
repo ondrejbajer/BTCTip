@@ -20,7 +20,7 @@
 			"@type": "SearchAction",
 			"target": {
 				"@type": "EntryPoint",
-				"urlTemplate": "hhttps://btctip.cz/?s={search_term_string}"
+				"urlTemplate": "https://btctip.cz/?s={search_term_string}"
 			},
 			"query-input": {
 				"@type": "PropertyValueSpecification",
