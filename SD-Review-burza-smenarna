@@ -1,0 +1,30 @@
+<script type="application/ld+json">
+                  {
+                    "@context": "https://schema.org/",
+                    "@type": "Review",
+                    "reviewBody": "<SHRNUTÍ>",
+                    "datePublished": "<DATUM VYTVOŘENÍ RECENZE CASINA>",
+                    "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE CASINA>",
+                    "sameAs": "<URL WEBU>",
+                    "commentCount": "<URL WEBU>",
+                  "itemReviewed": {
+                    "@type": "Organization",
+                    "logo":"<URL FEATURED IMAGE>", 
+                    "name": "<TITLE RECENZE>",
+                    "description": "<SHRNUTÍ>"
+                  },
+                  "author": {
+                    "@type": "Person",
+                    "name": "btctip"
+                  },
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "<OVERALL RATING>",
+                    "bestRating": "<TO SAMÉ ČÍSLO>"
+                  },
+                  "publisher": {
+                    "@type": "Organization",
+                    "name": "btctip"
+                  }
+                }
+                </script>
