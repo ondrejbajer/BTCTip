@@ -6,7 +6,7 @@
                     "datePublished": "<DATUM VYTVOŘENÍ RECENZE>",
                     "dateModified": "<DATUM POSLEDNÍ AKTUALIZACE RECENZE>",
                     "sameAs": "<URL WEBU>",
-                    "commentCount": "<Počet komentářů u review>",
+                    "commentCount": "<Počet komentářů u review>"
                     },
                   "itemReviewed": {
                     "@type": "Product",
