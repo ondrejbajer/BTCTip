@@ -8,12 +8,11 @@
                     "sameAs": "<URL WEBU>",
                     "alternateName": "<TICKER>",
                     "commentCount": "<Počet komentářů u review>",
-                    },
                   "itemReviewed": {
                     "@type": "Organization",
-                    "name": "<Název měny> (<ticker>)"
-                    "logo": "<Logo měny>"
-                    "description": "<SHRNUTÍ>",
+                    "name": "<Název měny> (<ticker>)",
+                    "logo": "<Logo měny>",
+                    "description": "<SHRNUTÍ>"
                   },
                   "author": {
                     "@type": "Person",
@@ -29,4 +28,4 @@
                     "name": "btctip"
                   }
                 }
-                </script>
+               </script>
